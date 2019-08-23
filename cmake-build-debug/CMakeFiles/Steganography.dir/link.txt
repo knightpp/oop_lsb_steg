@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g  -rdynamic CMakeFiles/Steganography.dir/cpp/BMPFile.cpp.o CMakeFiles/Steganography.dir/cpp/Hider.cpp.o CMakeFiles/Steganography.dir/main.cpp.o CMakeFiles/Steganography.dir/cpp/MyAlgo.cpp.o  -o Steganography 

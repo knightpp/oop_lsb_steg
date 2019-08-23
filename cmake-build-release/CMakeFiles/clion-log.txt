@@ -1,0 +1,14 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /mnt/HDD/Projects/C++/oop_lsb_steg
+-- The CXX compiler identification is GNU 9.1.0
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+Steganography: MAIN PROJECT: Steganography
+Steganography: CURR PROJECT: /mnt/HDD/Projects/C++/oop_lsb_steg
+Steganography: CURR BIN DIR: /mnt/HDD/Projects/C++/oop_lsb_steg/cmake-build-release
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/HDD/Projects/C++/oop_lsb_steg/cmake-build-release
